@@ -473,7 +473,7 @@ button {
 /* CAREERS PAGE */
 .careers-hero {
     height: 250px;
-    background-image: url(/aussieGrill2.0/aussieGrill2.0/code/Website/assets/people/mobile/employee.jpg);
+    background-image: url(/assets/people/mobile/employee.jpg);
     background-size: cover;
     background-position-x: center;
 }
