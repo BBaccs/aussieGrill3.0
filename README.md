@@ -19,6 +19,3 @@ Bacon Bomb Burger Page
 
 4) Slow / missing images / wrong images
 When all images are 100% they will be optimized for speed.
-
-
- mobile first. in progress.
